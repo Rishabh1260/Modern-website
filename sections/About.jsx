@@ -27,7 +27,7 @@ const About = () => (
        </motion.p>
        <motion.img 
        variants={fadeIn('up','tween', 0.3,1 )}
-       src='/arrow-down.svg'
+       src='arrow-down.svg'
        alt='arrow down'
        className='w-[18px] h-[20px] object-contain mt-[28px]'
        />
